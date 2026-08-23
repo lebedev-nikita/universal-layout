@@ -5,20 +5,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>me.tonsky.keyboardlayout.universal</string>
 	<key>CFBundleName</key>
-	<string>Universal-edited</string>
+	<string>Universal</string>
 	<key>CFBundleVersion</key>
 	<string>2.0</string>
-	<key>KLInfo_Universal Layout Ortho</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<true/>
-		<key>TISIconIsTemplate</key>
-		<true/>
-		<key>TISInputSourceID</key>
-		<string>me.tonsky.keyboardlayout.universal.universallayoutortho</string>
-		<key>TISIntendedLanguage</key>
-		<string>ru</string>
-	</dict>
 	<key>KLInfo_Universal Layout Standard</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -28,7 +17,7 @@
 		<key>TISInputSourceID</key>
 		<string>me.tonsky.keyboardlayout.universal.universallayoutstandard</string>
 		<key>TISIntendedLanguage</key>
-		<string>ru</string>
+		<string>en</string>
 	</dict>
 </dict>
 </plist>
