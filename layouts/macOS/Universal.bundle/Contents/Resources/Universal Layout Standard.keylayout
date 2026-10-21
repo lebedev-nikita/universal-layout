@@ -482,7 +482,7 @@
             <key code="14" output="e"/>
             <key code="15" output="r"/>
             <key code="16" output="y"/>
-            <key code="17" output="t"/>
+            <key code="17" output="ё"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>
@@ -511,7 +511,7 @@
             <key code="43" output="&#x003C;"/>
             <key code="44" output="&#x0026;"/>
             <key code="45" output="n"/>
-            <key code="46" output="m"/>
+            <key code="46" output="ъ"/>
             <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
@@ -588,7 +588,7 @@
             <key code="14" output="E"/>
             <key code="15" output="R"/>
             <key code="16" output="Y"/>
-            <key code="17" output="T"/>
+            <key code="17" output="Ё"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
@@ -617,7 +617,7 @@
             <key code="43" output="≤"/>
             <key code="44" output="…"/>
             <key code="45" output="N"/>
-            <key code="46" output="M"/>
+            <key code="46" output="Ъ"/>
             <key code="47" output="≥"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
